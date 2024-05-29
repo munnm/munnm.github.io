@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "Profile3.jpg"
+  avatar           : "mike_headshot_300dpi.jpg"
   bio              : # "Your biography for the left-hand sidebar"
   location         : # "Location"
-  employer         :
+  employer         : "Google"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=9dSlc_cAAAAJ"
-  email            : mufan.li@princeton.edu
+  googlescholar    : "https://scholar.google.com/citations?user=agHn7jkAAAAJ&hl=en"
+  email            : mikemunn@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"mufan-li"
+  github           : #"munnm"
   google_plus      :
   keybase          :
-  instagram        : #"mufan.li"
+  instagram        : #"munnm"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "mufan-bill-li-35749833"
+  linkedin         : "munnm"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mufan_li"
+  twitter          : "mikemunnster"
   vine             :
   weibo            :
   xing             :

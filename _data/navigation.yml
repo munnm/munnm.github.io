@@ -17,7 +17,7 @@ main:
     url: /research/
 
   - title: "Books"
-    url: /blog-posts/
+    url: /books/
   
   - title: "CV"
     url: /files/munn_resume.pdf

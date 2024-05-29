@@ -1,9 +1,6 @@
 ---
 title: Explainable AI for Practitioners: Designing and Implementing Explainable ML Solutions
 ---
----
-authors: Valliappa Lakshmanan, Sara Robinson, Michael Munn
----
 
 Most intermediate-level machine learning books focus on how to optimize models by increasing accuracy or decreasing prediction error. But this approach often overlooks the importance of understanding why and how your ML model makes the predictions that it does.
 

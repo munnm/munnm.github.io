@@ -10,12 +10,12 @@ redirect_from:
 
 # About
 
-I am a Senior Research Software Engineer at [Google Research](https://research.google/) NY, where I am work on **deep learning theory**.
+I am a Senior Research Software Engineer at [Google Research](https://research.google/) NY and my work focuses on *efficient ML*, optimization and *foundational machine learning research*.
 
 
 Previously, at Google, I was an ML Solutions Engineer in [Google Cloud](https://cloud.google.com/?e=0) working in the [Advanced Solutions Lab](https://cloud.google.com/asl).
 
-Prior to my Google and my switch to industry, I was a pure mathematics professor....
+Prior to my Google and my switch to industry, I was a mathematics professor. My research then was in geometric analysis. I received my PhD in mathematics at the City University of NY and held an NSF Postdoctoral Fellowship at the [Mathematics Institute of the University of Warwick](https://warwick.ac.uk/fac/sci/maths/).
 
 You can find my CV [here](files/munn_resume.pdf).
 

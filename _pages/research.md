@@ -9,7 +9,7 @@ author_profile: true
 See also my [Google Scholar](https://scholar.google.com/citations?user=agHn7jkAAAAJ&hl=en) page.
 
 [**The Impact of Geometric Complexity on Neural Collapse in Transfer Learning**](https://arxiv.org/abs/2405.15706) \\
-**Michael Munn**, Benoit Dherin, and Javier Gonzalvo. 2024
+**Michael Munn**, Benoit Dherin, and Javier Gonzalvo. 2024 \\
 \[[arXiv](https://arxiv.org/abs/2405.15706)\]
 
 [**A Margin-based Multiclass Generalization Bound via Geometric Complexity**](https://arxiv.org/abs/) \\
@@ -20,7 +20,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=agHn7jkAA
 \[[Proceedings](https://proceedings.mlr.press/v221/munn23a.html)\]
 
 [**Unified Functional Hashing in Automatic Machine Learning**](https://arxiv.org/abs/2302.05433) \\
-Ryan Gillard, Stephen Jonany, Yingjie Miao, **Michael Munn**, Connal de Souza, Jonathan Dungay, Chen Liang, David R. So, Quoc V. Le, and Esteban Real. 2023
+Ryan Gillard, Stephen Jonany, Yingjie Miao, **Michael Munn**, Connal de Souza, Jonathan Dungay, Chen Liang, David R. So, Quoc V. Le, and Esteban Real. 2023 \\
 \[[arXiv](https://arxiv.org/abs/2302.05433)\]
 
 [**Why neural networks find simple solutions: the many regularizers of geometric complexity**](https://arxiv.org/abs/2209.13083) \\
@@ -66,7 +66,7 @@ Lashi Bandara, Sajjad Lakzian, and **Michael Munn** (alphabetical). \\
 \[[Journal](https://journals.sns.it/index.php/annaliscienze/article/view/512)\]
 
 [**Intrinsic flat convergence with bounded Ricci curvature**](https://arxiv.org/abs/1405.3312) \\
-**Michael Munn** 2014
+**Michael Munn** 2014 \\
 \[[arXiv](https://arxiv.org/abs/1405.3312)\]
 
 [**Alexandrov spaces with large volume growth**](https://arxiv.org/abs/1405.3312) \\
@@ -76,11 +76,11 @@ Lashi Bandara, Sajjad Lakzian, and **Michael Munn** (alphabetical). \\
 \[[Journal](https://www.sciencedirect.com/science/article/pii/S0022247X14003941)\]
 
 [**On the Size of a Ricci Flow Neckpinch via Optimal Transport**](https://arxiv.org/abs/1404.7086) \\
-Sajjad Lakzian, and **Michael Munn** (alphabetical), 2014
+Sajjad Lakzian, and **Michael Munn** (alphabetical), 2014 \\
 \[[arXiv](https://arxiv.org/abs/1404.7086)\]
 
 [**Super Ricci flow for disjoint unions**](https://arxiv.org/abs/1211.2792) \\
-Sajjad Lakzian, and **Michael Munn** (alphabetical), 2012 
+Sajjad Lakzian, and **Michael Munn** (alphabetical), 2012 \\
 \[[arXiv](https://arxiv.org/abs/1211.2792)\]
 
 [**Volume growth and the topology of Gromov-Hausdorff limits**](https://arxiv.org/abs/1003.5691) \\
@@ -95,10 +95,10 @@ Sajjad Lakzian, and **Michael Munn** (alphabetical), 2012
 \[[arXiv](https://arxiv.org/abs/0712.0827)\]
 \[[Journal](https://link.springer.com/article/10.1007/s12220-010-9125-4)\]
 
-[**On the appearance of Eisenstein series through degeneration**](https://arxiv.org/abs/1003.5691) \\
+[**On the appearance of Eisenstein series through degeneration**](https://arxiv.org/abs/0801.3492) \\
 Dan Garbin, Jay Jorgenson, and **Michael Munn** (alphabetical). \\
 *Commentarii Mathematici Helvetici* 2008. \\
-\[[arXiv](https://arxiv.org/abs/1003.5691)\]
+\[[arXiv](https://arxiv.org/abs/0801.3492)\]
 \[[Journal](https://ems.press/journals/cmh/issues/48)\]
 
 

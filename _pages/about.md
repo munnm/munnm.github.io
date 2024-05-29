@@ -10,7 +10,7 @@ redirect_from:
 
 # About
 
-I am a Senior Research Software Engineer at [Google Research](https://research.google/) NY Postdoctoral Research Associate at [Princeton ORFE](https://orfe.princeton.edu/), where I am work on **deep learning theory**. 
+I am a Senior Research Software Engineer at [Google Research](https://research.google/) NY Postdoctoral Research Associate at [Princeton ORFE](https://orfe.princeton.edu/), where I am work on **deep learning theory**.
 <!--  -->
 
 Previously, at Google, I was an ML Solutions Engineer in [Google Cloud](https://cloud.google.com/?e=0) working in the [Advanced Solutions Lab](https://cloud.google.com/asl).

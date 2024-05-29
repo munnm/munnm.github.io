@@ -24,7 +24,7 @@ You can find my CV [here](files/munn_resume.pdf).
 I am broadly interested in studying the theoretical foundations of machine learning and how to leverage those insights to construct more efficient training and optimization algorithms. Recenlty, I have been thinking a lot about the implicit biases inherent in transfer learning and fine-tuning and the training dynamics of large deep learning models. 
 
 You can find a list of my research work
-[here](https://munnmi.github.io/research/). 
+[here](https://munnm.github.io/research/). 
 
 # Books
 

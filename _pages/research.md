@@ -39,11 +39,11 @@ Benoit Dherin, **Michael Munn**, and David G.T. Barrett. \\
 \[[Proceeding](https://proceedings.mlr.press/v195/zhang23a.html)\]
 
 [**COT-GAN: Generating Sequential Data via Causal Optimal Transport**](https://arxiv.org/abs/2006.08571)\\
-Tianlin Xu, Li K. Wenliang, **Michael Munn**, Beatrice Acciaio
+Tianlin Xu, Li K. Wenliang, **Michael Munn**, Beatrice Acciaio \\
 *NeurIps* 2020. \\
 \[[arXiv](https://arxiv.org/abs/2006.08571)\] 
 \[[OpenReview](https://openreview.net/forum?id=MVJi7SdV1mp)\]
-\[[Proceeding](https://proceedings.neurips.cc/paper/2020/hash/641d77dd5271fca28764612a028d9c8e-Abstract.html)\] \\
+\[[Proceeding](https://proceedings.neurips.cc/paper/2020/hash/641d77dd5271fca28764612a028d9c8e-Abstract.html)\]
 
 ## Prior to Google
 
@@ -80,25 +80,25 @@ Sajjad Lakzian, and **Michael Munn** (alphabetical), 2014
 \[[arXiv](https://arxiv.org/abs/1404.7086)\]
 
 [**Super Ricci flow for disjoint unions**](https://arxiv.org/abs/1211.2792) \\
-Sajjad Lakzian, and **Michael Munn** (alphabetical), 2012 \\
-\[[arXiv](https://arxiv.org/abs/1211.2792)\] \\
+Sajjad Lakzian, and **Michael Munn** (alphabetical), 2012 
+\[[arXiv](https://arxiv.org/abs/1211.2792)\]
 
 [**Volume growth and the topology of Gromov-Hausdorff limits**](https://arxiv.org/abs/1003.5691) \\
 **Michael Munn** \\
-*Differential Geometry and its Applications* 2010.
-\[[arXiv](https://arxiv.org/abs/1003.5691)\] \\
+*Differential Geometry and its Applications* 2010. \\
+\[[arXiv](https://arxiv.org/abs/1003.5691)\]
 \[[Journal](https://www.sciencedirect.com/science/article/pii/S0926224510000240)\]
 
 [**Volume growth and the topology of manifolds with nonnegative Ricci curvature**](https://arxiv.org/abs/0712.0827) \\
 **Michael Munn** \\
-*Journal of Geometric Analysis* 2009.
-\[[arXiv](https://arxiv.org/abs/0712.0827)\] \\
+*Journal of Geometric Analysis* 2009. \\
+\[[arXiv](https://arxiv.org/abs/0712.0827)\]
 \[[Journal](https://link.springer.com/article/10.1007/s12220-010-9125-4)\]
 
 [**On the appearance of Eisenstein series through degeneration**](https://arxiv.org/abs/1003.5691) \\
 Dan Garbin, Jay Jorgenson, and **Michael Munn** (alphabetical). \\
-*Commentarii Mathematici Helvetici* 2008.
-\[[arXiv](https://arxiv.org/abs/1003.5691)\] \\
+*Commentarii Mathematici Helvetici* 2008. \\
+\[[arXiv](https://arxiv.org/abs/1003.5691)\]
 \[[Journal](https://ems.press/journals/cmh/issues/48)\]
 
 

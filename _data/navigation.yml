@@ -1,0 +1,26 @@
+# main links links
+main:
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+  
+  # - title: "About"
+  #   url: /about/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Books"
+    url: /blog-posts/
+  
+  - title: "CV"
+    url: /files/munn_resume.pdf
+    
+  # - title: "Guide"
+  #   url: /markdown/

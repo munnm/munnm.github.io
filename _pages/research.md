@@ -6,67 +6,61 @@ author_profile: true
 ---
 
 
-See also my [Google Scholar](https://scholar.google.com/citations?user=9dSlc_cAAAAJ&hl=en) and [Semantic Scholar](https://www.semanticscholar.org/author/Mufan-Bill-Li/49140558) pages. 
+See also my [Google Scholar](https://scholar.google.com/citations?user=agHn7jkAAAAJ&hl=en) page.
 
-[**Sampling from the Mean-Field Stationary Distribution**](https://arxiv.org/abs/2402.07355) \\
-Yunbum Kook, Matthew S. Zhang, Sinho Chewi, Murat A. Erdogdu, and **M. Li**. \\
-To appear at *COLT 2024*. 
-\[[arXiv](https://arxiv.org/abs/2402.07355)\]
+[**The Impact of Geometric Complexity on Neural Collapse in Transfer Learning**](https://arxiv.org/abs/2405.15706) \\
+**Michael Munn**, Benoit Dherin, and Javier Gonzalvo. \\ 
+\[[arXiv](https://arxiv.org/abs/2405.15706)\]
 
-[**Differential Equation Scaling Limits of Shaped and Unshaped Neural Networks**](https://arxiv.org/abs/2310.12079) \\
-**M. Li** and Mihai Nica. \\
-*TMLR* 2024. 
-\[[arXiv](https://arxiv.org/abs/2310.12079)\]
-\[[OpenReview](https://openreview.net/forum?id=iRDwUXYsSJ)\]
+[**A Margin-based Multiclass Generalization Bound via Geometric Complexity**](https://arxiv.org/abs/) \\
+**Michael Munn\***, Benoit Dherin\*, and Javier Gonzalvo. \\
+*ICML, TAG-ML* 2023. 
+\[[arXiv](https://arxiv.org/abs/)\]
+\[[OpenReview](https://openreview.net/forum?id=fEx3f7YXv1)\]
+\[[Proceeding](https://proceedings.mlr.press/v221/munn23a.html)\]
 
-[**Depthwise Hyperparameter Transfer in Residual Networks: Dynamics and Scaling Limit**](https://arxiv.org/abs/2309.16620) \\
-Blake Bordelon, Lorenzo Noci, **M. Li**, Boris Hanin, and Cengiz Pehlevan. \\
-*ICLR* 2024. 
-\[[arXiv](https://arxiv.org/abs/2309.16620)\]
-\[[OpenReview](https://openreview.net/forum?id=KZJehvRKGD)\]
+[**Unified Functional Hashing in Automatic Machine Learning**](https://arxiv.org/abs/2302.05433) \\
+Ryan Gillard, Stephen Jonany, Yingjie Miao, **Michael Munn**, Connal de Souza, Jonathan Dungay, Chen Liang, David R. So, Quoc V. Le, and Esteban Real. \\
+\[[arXiv](https://arxiv.org/abs/2302.05433)\]
+
+[**Why neural networks find simple solutions: the many regularizers of geometric complexity**](https://arxiv.org/abs/2209.13083) \\
+Benoit Dherin\*, **Michael Munn\***, Mihaela Rosca, and David G. T. Barrett. \\
+*NeurIPS* 2022. 
+\[[arXiv](https://arxiv.org/abs/2209.13083)\]
+\[[OpenReview](https://openreview.net/forum?id=-ZPeUAJlkEu)\]
+\[[Proceeding](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0ff3502bb29570b219967278db150a50-Abstract-Conference.html)\]
+\[[Slides](https://nips.cc/media/neurips-2022/Slides/54458_xKZYv76.pdf)\]
 
 
-[**The Shaped Transformer: Attention Models in the Infinite Depth-and-Width Limit**](https://arxiv.org/abs/2306.17759) \\
-Lorenzo Noci\*, Chuning Li\*, **M. Li**\*, Bobby He, Thomas Hofmann, Chris Maddison, and Daniel M. Roy. \\
-*NeurIPS* 2023. 
-\[[arXiv](https://arxiv.org/abs/2306.17759)\] 
-\[[Proceeding](https://papers.nips.cc/paper_files/paper/2023/hash/aa31dc84098add7dd2ffdd20646f2043-Abstract-Conference.html)\]
-
-[**Improved Discretization Analysis for Underdamped Langevin Monte Carlo**](https://arxiv.org/abs/2302.08049) \\
-Matthew Zhang, Sinho Chewi, **M. Li**, Krishnakumar Balasubramanian, and Murat A. Erdogdu. \\
-*COLT* 2023. 
-\[[arXiv](https://arxiv.org/abs/2302.08049)\]
+[**The Geometric Occam's Razor Implicit in Deep Learning**](https://arxiv.org/abs/2111.15090) \\
+Benoit Dherin, **Michael Munn**, and David G.T. Barrett. \\
+*NeurIPS, OPT-Optimization in Machine Learning* 2021. 
+\[[arXiv](https://arxiv.org/abs/2111.15090)\]
 \[[Proceeding](https://proceedings.mlr.press/v195/zhang23a.html)\]
 
-[**Riemannian Langevin Algorithm for Solving Semidefinite Programs**](https://arxiv.org/abs/2010.11176)\\
-**M. Li** and Murat A. Erdogdu.
-\\
-<!--  -->
-*Bernoulli* 2023. 
-\[[arXiv](https://arxiv.org/abs/2010.11176)\] 
-\[[Journal](http://dx.doi.org/10.3150/22-BEJ1576)\] \\
-Student Research Presentation Award at SSC 2021. 
+[**COT-GAN: Generating Sequential Data via Causal Optimal Transport**](https://arxiv.org/abs/2006.08571)\\
+Tianlin Xu, Li K. Wenliang, **Michael Munn**, Beatrice Acciaio
+*NeurIps* 2020. 
+\[[arXiv](https://arxiv.org/abs/2006.08571)\] 
+\[[Proceeding](https://proceedings.neurips.cc/paper/2020/hash/641d77dd5271fca28764612a028d9c8e-Abstract.html)\] \\
 
-[**The Neural Covariance SDE: Shaped Infinite-Depth-and-Width Networks at Initialization**](https://arxiv.org/abs/2206.02768) \\
-**M. Li**, Mihai Nica, and Daniel M. Roy. \\
-*NeurIPS* 2022, **Oral**. 
-\[[arXiv](https://arxiv.org/abs/2206.02768)\] 
-\[[Proceeding](https://papers.nips.cc/paper_files/paper/2022/hash/45fc4a0da7e7f6fbabaabe2d20a441d1-Abstract-Conference.html)\] 
-\[[Code](https://openreview.net/attachment?id=WG3vmsteqR_&name=supplementary_material)\] 
-\[[DL Foundations at UMD (Video)](https://youtu.be/LQw6XAJLL5s)\] 
-\[[OPTML++ at MIT (Video)](https://youtu.be/au_i6pgcJBU)\]
+[**On Weak Super Ricci Flow through Neckpinch**](https://arxiv.org/abs/2008.10508) \\
+Sajjad Lakzian, and **Michael Munn** (alphabetical). \\
+*Journal of Mathematics* 2020. 
+\[[arXiv](https://arxiv.org/abs/2008.10508)\] 
+\[[Journal]()\] 
 
-[**Acceleration of Gossip Algorithms through the Euler-Poisson-Darboux Equation**](https://arxiv.org/abs/2202.10742) \\
-Rapha&euml;l Berthier and **M. Li** (alphabetical). \\
-*IMA Journal of Applied Mathematics* 2022. 
-\[[arXiv](https://arxiv.org/abs/2202.10742)\]
-\[[Journal](https://academic.oup.com/imamat/advance-article/doi/10.1093/imamat/hxac029/6775269)\]
+[**Three-Dimensional Alexandrov spaces with positive or nonnegative Ricci curvature**](https://arxiv.org/abs/1602.07724) \\
+Qintao Deng, Fernando Galaz-Garcia, Luis Guijarro, **Michael Munn** (alphabetical). \\
+*Journal of Mathematics* 2022. 
+\[[arXiv](https://arxiv.org/abs/1602.07724)\]
+\[[Journal]()\]
 
-[**Analysis of Langevin Monte Carlo from Poincar&eacute; to Log-Sobolev**](https://arxiv.org/abs/2112.12662) \\
-Sinho Chewi, Murat A. Erdogdu, **M. Li**, Ruoqi Shen, and Matthew Zhang (alphabetical). \\
-*COLT* 2022 Extended Abstract. 
-\[[arXiv](https://arxiv.org/abs/2112.12662)\]
-\[[Proceeding](https://proceedings.mlr.press/v178/chewi22a.html)\]
+[**Geometric singularities and a flow tangent to the Ricci flow**](https://arxiv.org/abs/1505.05035) \\
+Lashi Bandara, Sajjad Lakzian, and **Michael Munn** (alphabetical). \\
+*Journal of Mathematics* 2022.
+\[[arXiv](https://arxiv.org/abs/1505.05035)\]
+\[[Journal]()\]
 
 [**The Future is Log-Gaussian: ResNets and Their Infinite-Depth-and-Width Limit at Initialization**](https://arxiv.org/abs/2106.04013) \\
 **M. Li**, Mihai Nica, and Daniel M. Roy. \\

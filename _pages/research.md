@@ -12,10 +12,10 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=agHn7jkAA
 **Michael Munn**, Benoit Dherin, and Javier Gonzalvo, 2024 \\
 \[[arXiv](https://arxiv.org/abs/2405.15706)\]
 
-[**A Margin-based Multiclass Generalization Bound via Geometric Complexity**](https://arxiv.org/abs/) \\
+[**A Margin-based Multiclass Generalization Bound via Geometric Complexity**](https://arxiv.org/abs/2405.18590) \\
 **Michael Munn**, Benoit Dherin\*, and Javier Gonzalvo \\
 *ICML, TAG-ML* 2023 \\
-\[[arXiv](https://arxiv.org/abs/)\]
+\[[arXiv](https://arxiv.org/abs/2405.18590)\]
 \[[OpenReview](https://openreview.net/forum?id=fEx3f7YXv1)\]
 \[[Proceedings](https://proceedings.mlr.press/v221/munn23a.html)\]
 

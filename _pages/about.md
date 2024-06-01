@@ -30,4 +30,4 @@ I'm also a published O'Reilly author and have written two books on machine learn
 
 # Community
 
-In addition to my primary role at Google, I also volunteer as an AI Coach with [Google.org](https://www.google.org), the non-profit arm of Google. I advise and mentor early and late-stage startups using AI for social good. I'm currently participating in Google.org's Generative AI Accelerator program. You can find description of this and previous volunteer work with Google.org [here](https://munnm.github.io/community/).
+In addition to my primary role at Google, I also volunteer as an AI Coach with [Google.org](https://www.google.org), the philanthropic arm of Google. I advise and mentor early and late-stage startups using AI for social good. I'm currently participating in Google.org's Generative AI Accelerator program. You can find description of this and previous volunteer work with Google.org [here](https://munnm.github.io/community/).

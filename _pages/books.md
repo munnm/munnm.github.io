@@ -10,7 +10,8 @@ author_profile: true
 
 with Valliappa (Lak) Lakshmanan and Sara Robinson
 
-![xai_for_practitioners](/images/mldp.jpg){:width=20px}
+![xai_for_practitioners](/images/mldp.jpg){:width="50%"}
+
 
 The design patterns in this book capture best practices and solutions to recurring problems in machine learning. We draw on our experience working as an AI Engineer in Google Cloud and the learned experiences of our colleagues to catalog proven methods to help data scientists tackle common problems throughout the ML process. These design patterns codify the experience of hundreds of experts into straightforward, approachable advice.
 

@@ -18,6 +18,9 @@ main:
 
   - title: "Books"
     url: /books/
+
+  - title: "Community"
+    url: /community/    
   
   - title: "CV"
     url: /files/munn_resume.pdf

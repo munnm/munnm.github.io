@@ -10,7 +10,7 @@ author_profile: true
 
 with Valliappa (Lak) Lakshmanan and Sara Robinson
 
-![xai_for_practitioners](/images/mldp.jpg){:width="50%"}
+![mldp](/images/mldp.jpg){:width="75%"}
 
 
 The design patterns in this book capture best practices and solutions to recurring problems in machine learning. We draw on our experience working as an AI Engineer in Google Cloud and the learned experiences of our colleagues to catalog proven methods to help data scientists tackle common problems throughout the ML process. These design patterns codify the experience of hundreds of experts into straightforward, approachable advice.
@@ -23,7 +23,7 @@ All book sales profits are donated to [Girls Who Code](https://girlswhocode.com/
 
 with David Pitman, forewad by Ankur Taly
 
-![mldp](/images/xai_for_practitioners.jpg){:class="img-responsive", :width=200px}
+![xai_for_practitioners](/images/xai_for_practitioners.jpg){:class="img-responsive", :width=200px}
 
 Most intermediate-level machine learning books focus on how to optimize models by increasing accuracy or decreasing prediction error. But this approach often overlooks the importance of understanding why and how your ML model makes the predictions that it does. 
 

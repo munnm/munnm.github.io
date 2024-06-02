@@ -16,11 +16,11 @@ Previously, at Google, I was an ML Solutions Engineer in [Google Cloud](https://
 
 Prior to Google and my switch to industry, I had a career in academia as a research mathematics professor in the field of geometric analysis.
 
-You can find my CV [here](files/munn_resume.pdf).
+You can find my CV [here](files/munn_resume_june_24.pdf).
 
 # Research
 
-I am broadly interested in studying the theoretical foundations of machine learning and how to leverage those insights to devise more efficient training and optimization algorithms. Recently, I have been thinking a lot about *transfer learning* and *fine-tuning*, particularly how implicit biases can be leveraged to improve the training dynamics of large deep learning models. 
+I am broadly interested in the theoretical foundations of machine learning and how to leverage those insights to devise more efficient training and optimization algorithms. Recently, I have been thinking a lot about *transfer learning* and *fine-tuning*, particularly how implicit biases can be leveraged to improve the training dynamics of large deep learning models. 
 
 You can find a list of my research work [here](https://munnm.github.io/research/). 
 

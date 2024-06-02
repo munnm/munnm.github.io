@@ -21,7 +21,7 @@ All book sales profits are donated to [Girls Who Code](https://girlswhocode.com/
 
 # Explainable AI for Practitioners: Designing and Implementing Explainable ML Solutions
 
-with David Pitman, forewad by Ankur Taly
+with David Pitman, foreward by Ankur Taly
 
 ![xai_for_practitioners](/images/xai_for_practitioners.jpg){:width="50%"} 
 

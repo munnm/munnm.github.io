@@ -10,10 +10,14 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=agHn7jkAA
 
 [**The Impact of Geometric Complexity on Neural Collapse in Transfer Learning**](https://arxiv.org/abs/2405.15706) \\
 **Michael Munn**, Benoit Dherin, and Javier Gonzalvo, 2024 \\
+*accepted at NeurIPS '24* \\
 \[[arXiv](https://arxiv.org/abs/2405.15706)\]
 
+[**Leveraging Free Energy in Pretraining Model Selection for Improved Fine-tuning (in progress)**] \\
+**Michael Munn**, Susan Wei 2024 \\
+
 [**A Margin-based Multiclass Generalization Bound via Geometric Complexity**](https://arxiv.org/abs/2405.18590) \\
-**Michael Munn**, Benoit Dherin\*, and Javier Gonzalvo \\
+**Michael Munn**, Benoit Dherin, and Javier Gonzalvo \\
 *ICML, TAG-ML* 2023 \\
 \[[arXiv](https://arxiv.org/abs/2405.18590)\]
 \[[OpenReview](https://openreview.net/forum?id=fEx3f7YXv1)\]
@@ -40,7 +44,7 @@ Benoit Dherin, **Michael Munn**, and David G.T. Barrett \\
 
 [**COT-GAN: Generating Sequential Data via Causal Optimal Transport**](https://arxiv.org/abs/2006.08571)\\
 Tianlin Xu, Li K. Wenliang, **Michael Munn**, Beatrice Acciaio \\
-*NeurIps* 2020 \\
+*NeurIPS* 2020 \\
 \[[arXiv](https://arxiv.org/abs/2006.08571)\] 
 \[[OpenReview](https://openreview.net/forum?id=MVJi7SdV1mp)\]
 \[[Proceedings](https://proceedings.neurips.cc/paper/2020/hash/641d77dd5271fca28764612a028d9c8e-Abstract.html)\]

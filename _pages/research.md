@@ -13,8 +13,8 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=agHn7jkAA
 *accepted at NeurIPS '24* \\
 \[[arXiv](https://arxiv.org/abs/2405.15706)\]
 
-[**Leveraging Free Energy in Pretraining Model Selection for Improved Fine-tuning (in progress)**] \\
-**Michael Munn**, Susan Wei 2024 \\
+**Leveraging Free Energy in Pretraining Model Selection for Improved Fine-tuning (in progress)** \\
+**Michael Munn**, Susan Wei 2024
 
 [**A Margin-based Multiclass Generalization Bound via Geometric Complexity**](https://arxiv.org/abs/2405.18590) \\
 **Michael Munn**, Benoit Dherin, and Javier Gonzalvo \\

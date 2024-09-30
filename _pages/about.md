@@ -16,7 +16,7 @@ Previously, at Google, I was an ML Solutions Engineer in [Google Cloud](https://
 
 Prior to Google and my switch to industry, I had a career in academia as a research mathematics professor in the field of geometric analysis.
 
-You can find my CV [here](files/munn_resume_june_24.pdf).
+You can find my CV [here](files/munn_resume.pdf).
 
 # Research
 

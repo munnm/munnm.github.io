@@ -8,13 +8,19 @@ author_profile: true
 
 See also my [Google Scholar](https://scholar.google.com/citations?user=agHn7jkAAAAJ&hl=en) page.
 
+[**Training in Reverse: How iteration order influences convergence and stability in deep learning**](https://arxiv.org/abs/2502.01557) \\
+Benoit Dherin, Benny Avelin, Anders Karlsson, Hanna Mazzawi, Javier Gonzalvo, **Michael Munn** \\
+\[[arXiv](https://arxiv.org/abs/2502.01557)\]
+
 [**The Impact of Geometric Complexity on Neural Collapse in Transfer Learning**](https://arxiv.org/abs/2405.15706) \\
 **Michael Munn**, Benoit Dherin, and Javier Gonzalvo \\
-*accepted at NeurIPS 2024* \\
+*NeurIPS* 2024 \\
 \[[arXiv](https://arxiv.org/abs/2405.15706)\]
+\[[OpenReview](https://openreview.net/forum?id=PLbFid00aU)\]
+\[[Proceedings](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7b24015f3af598e1d9179f6e06353780-Abstract-Conference.html)\]
 
 [**Leveraging Free Energy in Pretraining Model Selection for Improved Fine-tuning**](https://arxiv.org/abs/2410.05612) \\
-**Michael Munn**, Susan Wei, 2024 \\
+**Michael Munn** and Susan Wei, 2024 \\
 \[[arXiv](https://arxiv.org/abs/2410.05612)]
 
 [**A Margin-based Multiclass Generalization Bound via Geometric Complexity**](https://arxiv.org/abs/2405.18590) \\
@@ -28,7 +34,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=agHn7jkAA
 Ryan Gillard, Stephen Jonany, Yingjie Miao, **Michael Munn**, Connal de Souza, Jonathan Dungay, Chen Liang, David R. So, Quoc V. Le, and Esteban Real, 2023 \\
 \[[arXiv](https://arxiv.org/abs/2302.05433)\]
 
-[**Why neural networks find simple solutions: the many regularizers of geometric complexity**](https://arxiv.org/abs/2209.13083) \\
+[**Why Neural Networks Find Simple Solutions: The many regularizers of geometric complexity**](https://arxiv.org/abs/2209.13083) \\
 Benoit Dherin, **Michael Munn**, Mihaela Rosca, and David G. T. Barrett \\
 *NeurIPS* 2022 \\
 \[[arXiv](https://arxiv.org/abs/2209.13083)\]

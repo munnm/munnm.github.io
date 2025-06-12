@@ -9,7 +9,7 @@ author_profile: true
 See also my [Google Scholar](https://scholar.google.com/citations?user=agHn7jkAAAAJ&hl=en) page.
 
 [**A Bayesian Model Selection Criterion for Selecting Pretraining Checkpoints**](https://arxiv.org/abs/2410.05612) \\
-**Michael Munn** and Susan Wei, 2024 \\
+**Michael Munn** and Susan Wei \\
 *ICML* 2025 \\
 \[[arXiv](https://arxiv.org/abs/2410.05612)]
 \[[Proceedings](https://icml.cc/virtual/2025/poster/44536)\]

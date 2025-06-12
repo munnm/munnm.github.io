@@ -8,6 +8,16 @@ author_profile: true
 
 See also my [Google Scholar](https://scholar.google.com/citations?user=agHn7jkAAAAJ&hl=en) page.
 
+[**A Bayesian Model Selection Criterion for Selecting Pretraining Checkpoints**](https://arxiv.org/abs/2410.05612) \\
+**Michael Munn** and Susan Wei, 2024 \\
+*ICML* 2025 \\
+\[[arXiv](https://arxiv.org/abs/2410.05612)]
+\[[Proceedings](https://icml.cc/virtual/2025/poster/44536)\]
+
+[**Learning by solving differential equations**](https://arxiv.org/abs/2505.13397) \\
+Benoit Dherin, **Michael Munn**, Hanna Mazzawi, Michael Wunder, Sourabh Medapati, Javier Gonzalvo \\
+\[[arXiv](https://arxiv.org/abs/2505.13397)\]
+
 [**Training in Reverse: How iteration order influences convergence and stability in deep learning**](https://arxiv.org/abs/2502.01557) \\
 Benoit Dherin, Benny Avelin, Anders Karlsson, Hanna Mazzawi, Javier Gonzalvo, **Michael Munn** \\
 \[[arXiv](https://arxiv.org/abs/2502.01557)\]
@@ -18,10 +28,6 @@ Benoit Dherin, Benny Avelin, Anders Karlsson, Hanna Mazzawi, Javier Gonzalvo, **
 \[[arXiv](https://arxiv.org/abs/2405.15706)\]
 \[[OpenReview](https://openreview.net/forum?id=PLbFid00aU)\]
 \[[Proceedings](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7b24015f3af598e1d9179f6e06353780-Abstract-Conference.html)\]
-
-[**Leveraging Free Energy in Pretraining Model Selection for Improved Fine-tuning**](https://arxiv.org/abs/2410.05612) \\
-**Michael Munn** and Susan Wei, 2024 \\
-\[[arXiv](https://arxiv.org/abs/2410.05612)]
 
 [**A Margin-based Multiclass Generalization Bound via Geometric Complexity**](https://arxiv.org/abs/2405.18590) \\
 **Michael Munn**, Benoit Dherin, and Javier Gonzalvo \\

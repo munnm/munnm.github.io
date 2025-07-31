@@ -8,29 +8,35 @@ author_profile: true
 
 See also my [Google Scholar](https://scholar.google.com/citations?user=agHn7jkAAAAJ&hl=en) page.
 
+\* = equal contribution
+
+[**Learning without Training: The Implicit Dynamics of In-Context Learning**](https://arxiv.org/abs/2507.16003) \\
+Benoit Dherin*, **Michael Munn**\*, Hanna Mazzawi*, Michael Wunder, Javier Gonzalvo \\
+\[[arXiv](https://arxiv.org/abs/2507.16003)]
+
 [**A Bayesian Model Selection Criterion for Selecting Pretraining Checkpoints**](https://arxiv.org/abs/2410.05612) \\
-**Michael Munn** and Susan Wei \\
+**Michael Munn**\* and Susan Wei* \\
 *ICML* 2025 \\
 \[[arXiv](https://arxiv.org/abs/2410.05612)]
 \[[Proceedings](https://icml.cc/virtual/2025/poster/44536)\]
 
 [**Learning by solving differential equations**](https://arxiv.org/abs/2505.13397) \\
-Benoit Dherin, **Michael Munn**, Hanna Mazzawi, Michael Wunder, Sourabh Medapati, Javier Gonzalvo \\
+Benoit Dherin*, **Michael Munn**\*, Hanna Mazzawi, Michael Wunder, Sourabh Medapati, Javier Gonzalvo \\
 \[[arXiv](https://arxiv.org/abs/2505.13397)\]
 
 [**Training in Reverse: How iteration order influences convergence and stability in deep learning**](https://arxiv.org/abs/2502.01557) \\
-Benoit Dherin, Benny Avelin, Anders Karlsson, Hanna Mazzawi, Javier Gonzalvo, **Michael Munn** \\
+Benoit Dherin*, Benny Avelin*, Anders Karlsson*, Hanna Mazzawi, Javier Gonzalvo, **Michael Munn** \\
 \[[arXiv](https://arxiv.org/abs/2502.01557)\]
 
 [**The Impact of Geometric Complexity on Neural Collapse in Transfer Learning**](https://arxiv.org/abs/2405.15706) \\
-**Michael Munn**, Benoit Dherin, and Javier Gonzalvo \\
+**Michael Munn**\*, Benoit Dherin*, and Javier Gonzalvo \\
 *NeurIPS* 2024 \\
 \[[arXiv](https://arxiv.org/abs/2405.15706)\]
 \[[OpenReview](https://openreview.net/forum?id=PLbFid00aU)\]
 \[[Proceedings](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7b24015f3af598e1d9179f6e06353780-Abstract-Conference.html)\]
 
 [**A Margin-based Multiclass Generalization Bound via Geometric Complexity**](https://arxiv.org/abs/2405.18590) \\
-**Michael Munn**, Benoit Dherin, and Javier Gonzalvo \\
+**Michael Munn**\*, Benoit Dherin*, and Javier Gonzalvo \\
 *ICML, TAG-ML* 2023 \\
 \[[arXiv](https://arxiv.org/abs/2405.18590)\]
 \[[OpenReview](https://openreview.net/forum?id=fEx3f7YXv1)\]
@@ -41,7 +47,7 @@ Ryan Gillard, Stephen Jonany, Yingjie Miao, **Michael Munn**, Connal de Souza, J
 \[[arXiv](https://arxiv.org/abs/2302.05433)\]
 
 [**Why Neural Networks Find Simple Solutions: The many regularizers of geometric complexity**](https://arxiv.org/abs/2209.13083) \\
-Benoit Dherin, **Michael Munn**, Mihaela Rosca, and David G. T. Barrett \\
+Benoit Dherin*, **Michael Munn**\*, Mihaela Rosca, and David G. T. Barrett \\
 *NeurIPS* 2022 \\
 \[[arXiv](https://arxiv.org/abs/2209.13083)\]
 \[[OpenReview](https://openreview.net/forum?id=-ZPeUAJlkEu)\]
@@ -50,7 +56,7 @@ Benoit Dherin, **Michael Munn**, Mihaela Rosca, and David G. T. Barrett \\
 
 
 [**The Geometric Occam's Razor Implicit in Deep Learning**](https://arxiv.org/abs/2111.15090) \\
-Benoit Dherin, **Michael Munn**, and David G.T. Barrett \\
+Benoit Dherin*, **Michael Munn**\*, and David G.T. Barrett \\
 *NeurIPS, OPT-Optimization in Machine Learning* 2021 \\
 \[[arXiv](https://arxiv.org/abs/2111.15090)\]
 \[[Proceedings](https://proceedings.mlr.press/v195/zhang23a.html)\]
@@ -63,6 +69,8 @@ Tianlin Xu, Li K. Wenliang, **Michael Munn**, Beatrice Acciaio \\
 \[[Proceedings](https://proceedings.neurips.cc/paper/2020/hash/641d77dd5271fca28764612a028d9c8e-Abstract.html)\]
 
 ## Prior to Google
+
+author order is alphabetical
 
 [**On Weak Super Ricci Flow through Neckpinch**](https://arxiv.org/abs/2008.10508) \\
 Sajjad Lakzian, and **Michael Munn** (alphabetical) \\

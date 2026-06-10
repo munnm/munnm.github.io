@@ -10,6 +10,11 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=agHn7jkAA
 
 \* = equal contribution
 
+[**Equivalence of Context and Parameter Updates in Modern Transformer Blocks**](https://arxiv.org/abs/2511.17864) **(oral, spotlight)**\\
+Adrian Goldwaser, **Michael Munn**, Javier Gonzalvo, Benoit Dherin \\
+*ICML* 2026, oral \\
+\[[arXiv](https://arxiv.org/abs/2507.16003)]
+
 [**Learning without Training: The Implicit Dynamics of In-Context Learning**](https://arxiv.org/abs/2507.16003) \\
 Benoit Dherin\*, **Michael Munn**\*, Hanna Mazzawi\*, Michael Wunder, Javier Gonzalvo \\
 \[[arXiv](https://arxiv.org/abs/2507.16003)]
@@ -22,11 +27,15 @@ Benoit Dherin\*, **Michael Munn**\*, Hanna Mazzawi\*, Michael Wunder, Javier Gon
 
 [**Learning by solving differential equations**](https://arxiv.org/abs/2505.13397) \\
 Benoit Dherin\*, **Michael Munn**\*, Hanna Mazzawi, Michael Wunder, Sourabh Medapati, Javier Gonzalvo \\
+*NeurIPs OPT Workshop, 2025 \\
 \[[arXiv](https://arxiv.org/abs/2505.13397)\]
+\[[OpenReview](https://openreview.net/forum?id=oJEpk2eB2I)\]
 
 [**Training in Reverse: How iteration order influences convergence and stability in deep learning**](https://arxiv.org/abs/2502.01557) \\
 Benoit Dherin\*, Benny Avelin\*, Anders Karlsson\*, Hanna Mazzawi, Javier Gonzalvo, **Michael Munn** \\
+*TMLR* 2025 \\
 \[[arXiv](https://arxiv.org/abs/2502.01557)\]
+\[[OpenReview](https://openreview.net/pdf?id=GZCBM2Yo3a)\]
 
 [**The Impact of Geometric Complexity on Neural Collapse in Transfer Learning**](https://arxiv.org/abs/2405.15706) \\
 **Michael Munn**\*, Benoit Dherin\*, and Javier Gonzalvo \\
@@ -37,7 +46,7 @@ Benoit Dherin\*, Benny Avelin\*, Anders Karlsson\*, Hanna Mazzawi, Javier Gonzal
 
 [**A Margin-based Multiclass Generalization Bound via Geometric Complexity**](https://arxiv.org/abs/2405.18590) \\
 **Michael Munn**\*, Benoit Dherin*, and Javier Gonzalvo \\
-*ICML, TAG-ML* 2023 \\
+*ICML, TAG-ML Workshop* 2023 \\
 \[[arXiv](https://arxiv.org/abs/2405.18590)\]
 \[[OpenReview](https://openreview.net/forum?id=fEx3f7YXv1)\]
 \[[Proceedings](https://proceedings.mlr.press/v221/munn23a.html)\]

@@ -10,7 +10,7 @@ redirect_from:
 
 # About
 
-I am a Senior Research Software Engineer at [Google Research](https://research.google/) NY. My work is focused on **foundational research in machine learning** and how these theoretical insights can be applied to improve **ML efficiency**, especially in the context of **fine-tuning**.
+I am a Research Software Engineer at [Google Research](https://research.google/) NY. My work is focused on **foundational research in machine learning** and how these theoretical insights can be applied to improve **ML efficiency**, especially in the context of **fine-tuning**.
 
 Previously, at Google, I was an ML Solutions Engineer in [Google Cloud](https://cloud.google.com/?e=0) working closely with Cloud customers to build and productionize machine learning models at scale. In my role within the [Advanced Solutions Lab](https://cloud.google.com/asl), I also led a 4-week intensive training course teaching the tools, techniques, and best practices for training and deploying their own ML solutions. 
 

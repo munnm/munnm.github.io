@@ -9,11 +9,13 @@ Separate from my research role at Google, I also volunteer as an AI Coach with [
 
 ## GenAI Accelerator
 
-The [Generative AI Accelerator](https://blog.google/outreach-initiatives/google-org/google-generative-ai-accelerator-nonprofits/) is a 6-month global pro bono program that aims to accelerate the work of 21 nonprofit organizations working with generative AI by providing mentorship, technical training and pro bono support. Currently I'm working with two companies: [Materiom](https://materiom.org/) and [Full Fact](https://fullfact.org/). 
+The [Generative AI Accelerator](https://blog.google/outreach-initiatives/google-org/google-generative-ai-accelerator-nonprofits/) is a 6-month global pro bono program that aims to accelerate the work of 21 nonprofit organizations working with generative AI by providing mentorship, technical training and pro bono support. The Accelerator targets social impact organizations across Education/Learning, Healthcare & Life Sciences, Workforce Development, Crisis Response & Social Safety Nets, Climate & Sustainability and Civic Engagement. I've volunteered as primary technical advisor, guiding architecture decisions and developing eval frameworks. In the past, I've working with
 
-Materiom is a UK-based startup whose mission is to accelerate the research, development, and uptake of materials that have a net-positive impact on the planet. They offer biomaterial developers a platform where they can access, collaborate and contribute new biomaterial formulations. 
+[Phare Bio](https://www.pharebio.org/) — a US-based social venture whose mission is to address the global antimicrobial resistance crisis by discovering and developing entirely new classes of antibiotics. They leverage generative AI and deep learning to design novel, drug-like molecular candidates from scratch to replenish the world's dwindling antibiotic pipeline.
 
-Full Fact is the UK's independent fact checking organisation. Their mission is to promote accuracy and accountability in public debate by systematically fact checking claims made by politicians, public figures, and the media. 
+[Materiom](https://materiom.org/) -- a UK-based startup whose mission is to accelerate the research, development, and uptake of materials that have a net-positive impact on the planet. They offer biomaterial developers a platform where they can access, collaborate and contribute new biomaterial formulations. 
+
+[Full Fact](https://fullfact.org/) -- the UK's independent fact checking organisation. Their mission is to promote accuracy and accountability in public debate by systematically fact checking claims made by politicians, public figures, and the media. 
 
 ## Google.org Fellowship with The Trevor Project
 
